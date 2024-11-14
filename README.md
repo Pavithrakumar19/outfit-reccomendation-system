@@ -1,2 +1,2 @@
 # outfit-reccomendation-system
-ml reccomendation system using collaborative filtering,content based and  a hybrid reccomendation
+Reccomendation system using the algorithms such as collaborative filtering,content based and  a hybrid reccomendation
